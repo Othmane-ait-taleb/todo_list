@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-this is a very basic TodoList app made with react and tailwind .
+this is a very basic TodoList app made with #react and #Tailwind  .
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
